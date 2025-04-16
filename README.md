@@ -1,2 +1,2 @@
-# SportMach-
-App citas deportivas 
+# SportMach
+App de citas para deportistas.
